@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import Firework from "./test2.js";
+import Firework from "./Firework.js";
 
 function App() {
   const [firework, setFireWork] = useState(null);
